@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Letters of Lavender</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="garden">
+    <div class="flower">✿</div>
+    <div class="flower">❀</div>
+    <div class="flower">✽</div>
+</div>
+
+
+<!-- HOME PAGE -->
+
+<section id="home" class="page active">
+
+<h1>Letters of Lavender</h1>
+
+<p class="subtitle">
+12 little letters waiting for you
+</p>
+
+
+<div id="lettersContainer" class="letters-container">
+
+</div>
+
+
+</section>
+
+
+
+<!-- LETTER PAGE -->
+
+<section id="letterPage" class="page">
+
+
+<div id="envelope" class="envelope-container">
+
+
+<div class="envelope">
+
+<div class="flap"></div>
+
+
+<div class="wax">
+♥
+</div>
+
+
+<div class="paper">
+
+<p id="letterContent"></p>
+
+
+<div id="countdown" class="countdown">
+
+</div>
+
+
+<button onclick="closeLetter()" class="close-btn">
+Close Letter
+</button>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+<!-- LOCK POPUP -->
+
+<div id="lockPopup" class="popup">
+
+<div class="popup-box">
+
+<h3>Letter Locked 🔒</h3>
+
+<p>
+This letter is still sealed.
+Come back when the time is right ❤️
+</p>
+
+
+<button onclick="closePopup()">
+Okay
+</button>
+
+
+</div>
+
+</div>
+
+
+
+<audio id="paperSound">
+<source src="paper.mp3" type="audio/mpeg">
+</audio>
+
+
+
+<script src="letters.js"></script>
+<script src="script.js"></script>
+
+
+</body>
+</html>
