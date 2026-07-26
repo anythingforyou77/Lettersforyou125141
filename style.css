@@ -374,11 +374,9 @@ h1{
     position:absolute;
 
     width:85%;
-
     height:180px;
 
     left:7.5%;
-
     bottom:-190px;
 
     padding:20px;
@@ -387,17 +385,42 @@ h1{
 
     color:white;
 
-    border-radius:6px;
+    border-radius:8px;
 
-    transition:2s;
+    transition:
+    width 1.5s ease,
+    height 1.5s ease,
+    left 1.5s ease,
+    bottom 1.5s ease,
+    transform 1.5s ease;
 
     overflow:auto;
 
     line-height:1.7;
 
 }
+.paper.expanded{
 
+    position:fixed;
 
+    width:90vw;
+
+    height:85vh;
+
+    left:5vw;
+
+    bottom:7.5vh;
+
+    z-index:20;
+
+    transform:scale(1);
+
+    border-radius:18px;
+
+    box-shadow:
+    0 20px 50px rgba(0,0,0,.3);
+
+}
 
 /* CUSTOM TINY SCROLLBAR */
 
