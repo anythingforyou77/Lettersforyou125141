@@ -29,104 +29,186 @@ With Love, Your chekkaan❤️
 `,
 
 
-`
-Day two,
+` 
+Goood morning my love 🥰
+Innum full train thanneyaa..
+Hopefully aellarodum atleast samsarikan ulla
+company aengillum aaya matheenu.. 
+15 alkaar ahnu ulle i guess.. 
+Correct count njan whatsapp parayand.. 
+Aennellum ninneem kutty engane sandhoshathode aengott
+aengilum ponam aenn enik agraham undu kunjoo.. 
+I love you soo much 🥰 and ninne njan orupaad miss cheyyunnundavum.. 
+Arokke kude currently undellum..
 
-A new day, a new little message.
-
-I hope you are enjoying this small journey
-and the surprises hidden inside these letters.
-
-Take your time reading them.
 `,
 
 
 `
-Day three,
+Haaaaii kunji penneeeee🥹
+Innathe plan is.. Chandigarh kk 10 mani avumbozek atheett undavum.. 
+Avdnn tempo ll nere shimla kk.. 
+Avde aethett time undel night karangaan erangum.. 
+Elllel room stay thanneyaavum..
 
-Every memory has a feeling attached to it.
-
-This is one small reminder that even simple
-moments can become beautiful memories.
+Issues onnu varand erikaan prarthikane daa..
+Evdnn angott motham ee tempo ll avum..
+Nte kutty kk njaan ndhaa kodunn tharande.. 
+Specific ayitt allelum random ayitt ninak spiti vally nn 
+ishtaavan chance ulla ndelum paranj tharo...
 `,
 
 
 `
-Day four,
+So its day 5 😌
+Correct spiti vally trip evdnn thottaanu..
+Inn shimla nnu nerethe breakfast kazich Chitkul village kk 
+ulla journey aaanuttoo...
+Chitkul aethum night avum..
+Angott pona vazik ndhoke kore kaanan unduthre..
+Chelappo inn thott nte range athikam undavilaa🫠 
+if ravile thott athikam inne kandillel njan night 9 to 11 pm nte ullil free avan nokaave.. 
+Aa time llu eyyum varan nokonduyee.. 
+Arde aedthnnelum hotspot rvalikaana nte plan..
 
-Sometimes words cannot explain everything,
-but a letter can hold feelings that stay longer.
+Ithonda ee whole letters aezuthi vekkuna plan manasilk vannee..
+Inn atleast ndhaavum njan cheyyandavann aengilum njan areekande nte kutty ne.. 
+Real time ll nadakunne pattunapole ndayalum njan whatsapp ariyicholaam..
 
-So here is another little piece for you ❤️
+Njan jio kk port cheythukunu but ndhoo.. Innale maybe ath sheri ayitt undavum.. (28th nnu).. 
+Sheriyayillelo nn ulla risk ozivaakanaa ithu...
+Baki naale parayaaave😁
+I miss you a loooooooooooott🫂🤗
 `,
 
 
 `
-Day five,
+Nte kutty aevdeee......
+Chitkul village chutti kand.. Nere 'Nako' llek... 
+Aennit inn Nako ll avum stay... 
+Chitkul village kaanan nalla bangiyaanu kandadatholam.. 
+Avdnn Nako llek ulla route um nalla bangiya...
 
-Halfway through the first part of this journey.
+Okayy😁 njan ith create cheytha story paranj tharaam nte kutty ku... 
+Oru creater nte reel kandeenu kurach kalam mumb.. 
+Oru website athil njammak letters aezuthi store cheyyan pattum..
+And link use cheyth ninak keri nokam.. 
+Ee website nn vendi njan insta ll kore neram kalanj... kitteela... 
+Nnit njan Chat gpt nte aedth nalla website suggest cheyyaan paranj.. 
+Athil free ayitt ulla website onnum nte requirements meet cheyynla..
+Athond ninak vendi njan github keri oru website undakan angg padichh😁.. 
+Nte requirements list cheyth koduthu.. Kore neram angane poyii.. 
+Nnit chatgpt oru 5 folder ll code create cheyth thannu.. 
+Ath njan correct ayitt github ll kondoyy copypaste cheyth undaakiyathaa ithu..
+But suspense und.... Nale parayaaam😁
 
-I hope these letters feel like a small warm hug
-whenever you open them.
+Inn veet povoo nte kuttyy?
+`,
+
+`
+Veet alledaa eyy?
+Nako to Kaza.... Innathe day um mainly travelling avum.. 
+Innalathe story nte baki paranj tharaam...
+Well nte athibhudi kond oru mandathram kaatti
+kore time kalanj website undakiyapoo😅 
+first njan undakan erikunne 25 night kazinjitt ulla time nn aahne.. 
+Chatgpt data store cheyyolo athond njan log out adichitt
+aanu athreem karyngal undakiyath.. 
+Almost okay aynu but still kurach karyangal fix cheyyan undynu..
+Ithinn thanne oru 2,3 hr poyitt undavum..
+Appo orakam vann njann poyy kedannuu..
+Morning neech baki cheyyaan nerath ithu kaanunillaa data...
+Pinne aengane eppothe ee website create cheythe nn allee doubt?
+Naaale paranj tharaaam... To be continued... 😌
+Enik ninne ishtaaaadaaa...... 🥰
+`,
+  
+
+
+`
+Oru week aylle njan poyittu? ithin ullil
+aethra dhivasam nte kutty ne proper ayitt mind
+cheyyanum kelkanum pati nn enik areelada..
+pakshe njan thirich vanna pineem pazaya pole nte aellaa
+time um attention um nte kutty kk avumttoo...
+
+Kaza local karakam aahnu innathe main prpdy...
+Njaan paranj tharand evde kaaanan ndhokeyaa ullee nnuttoo...
+Inn full evde karangitt innalee vann ninna aa same hotel thirich poyy nikum..
+
+Innalathe story nte baki paranj tharaave...
+26 ravile oru 9 manik aahnu neechath 
+appo nokiyapoza pani kitti manasilaaye..
+Pinne onnu nokeela.. Login cheyth.. 
+Onnude commands koduth onnude undaki adutha website😁.. 
+Dheshyaam vanneenudaaa.. Gpt oonte ishtathinu oronn add cheyya
+njan paranjathinu purame.. 
+Nnitt first review nokeett enik adjustments varuthaan undynu..
+Athinu annel gpt parayum.. First aa file name athil oru code kanich tharum
+ath thappi kandupidich puthiya code ayitt replace cheyyaanu.. 
+Chela files onnum kozapala... Chelathil 500+ lines und code🧑🏻‍🦯.
+Nnitt nte kutty kk ee idea sherikuu ishtaaayoo!!!????
 `,
 
 
 `
-Day six,
+Im gonnaa miss youu soooooooo muchh🫠
+Kaza ll ninn chandra dal lake kk ulla 2km trek..
+Lake nalla bangi undaaya matheenu... 
+Chela reels okke kanda oru mechom llaa...
+Chelathil anneel nalla bangi undavum cheyyum...
 
-Another page, another memory.
-
-Thank you for being someone worth writing
-these letters for.
+Sorryyy daaa lake nte avde aethiya aeth sim anneelum 
+range undavan chance kuravam. 
+Inn avum nte kutty ne njaan aettom kuduthal miss cheyyaa..
+Nee annel Veet poyitt inn collage kk aethiya day um aville.. 
+Nee msg ayach idoodaa free avumboo..
+Weekend ll vtl poyitt aengane undynu nnokee..
+Enik pattanel njan nokaam...
+Ndayalum 9 manik varan paranje inn mikkavarum undavillada.. 
+Im sorry 😭....
+I love you soo much.. I wish to spend the rest of my life with you my love. 
+Sherikum orupaaad ishtaanu ninnee.. ❤️
+Aennum enik anne engane ishtapadan pattanenn njan sherikum agrahiknd...
+Ndelum chance undell njan inn message ayaknd ttoo....
+Innathe oru day njammal athikam contact llaandu erikendi varum nn llee🫠
+Miss you daaaaa..
 `,
 
 
 `
-Day seven,
+Day 9
+Lake to manali... 
+Varunna route kurach dangerous aahnu...
+Kaanan nalla rasa nnalumm😅
 
-A whole week has passed.
+Inn aeppo thottaa range kittaanu areela.. 
+Kittumbo njan ayakndu ttooo......
 
-I hope every letter so far has made you
-feel special and loved.
+Website undakiya story paranje enik vere onnum athikam 
+parayaan ellathond aada😅
+oru singel voice ayakavunne alle undynollu athu parayanell..
+Allel just annathe itenary mathram paranjitt povendi vanneenile😁
+Athond petteenn thonita bhudiyaaa😁
+with love, Your boyfriend 😌
 `,
 
 
 `
-Day eight,
-
-Some surprises are not about the size,
-but about the thought behind them.
-
-This little letter is one of those.
+Trip almost kazinjedaaa....
+Thirich ulla train journey lle first day.
+Tired avum ofc... Side seat und..
+View okke kand engane varaam lle.... 
+Opposite nee kude anneel kurach kude rasaynu btw😁
 `,
 
 
 `
-Day nine,
-
-Almost there.
-
-A few more letters remain,
-but every one of them carries a meaning.
-`,
-
-
-`
-Day ten,
-
-The countdown is getting closer.
-
-I hope these small moments stay with you
-for a long time.
-`,
-
-
-`
-Day eleven,
-
-Just one more step before the final letter.
-
-Thank you for being part of this little story.
+Hello my love 😌
+Second day...
+Honestly ndhaavum situation nn oru idea um llaa.. 
+Athond athikam onnu pareenla innuuu😁 bye bye bye... 
+Love you with aaaaaalll my heart ❤️ 😁
 `,
 
 
