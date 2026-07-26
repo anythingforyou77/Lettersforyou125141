@@ -79,22 +79,12 @@ for(let i = 0; i < 12; i++){
 
 function isUnlocked(index){
 
+    // Testing mode: unlock first 2 letters
+    if(index < 2){
+        return true;
+    }
 
-    const unlockDate = new Date(
-
-        Date.UTC(
-            2026,
-            6,
-            27 + index,
-            18,
-            30
-        )
-
-    );
-
-
-    return new Date() >= unlockDate;
-
+    return false;
 }
 
 
