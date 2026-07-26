@@ -206,8 +206,15 @@ function openLetter(index){
         setTimeout(()=>{
 
 
-            letterContent.innerHTML =
-            letters[index];
+            letterContent.innerHTML = letters[index];
+
+
+setTimeout(()=>{
+
+    document.querySelector(".paper")
+    .classList.add("expanded");
+
+},500);
 
 
 
