@@ -78,7 +78,23 @@ for(let i = 0; i < 12; i++){
 // Unlock system using IST
 
 function isUnlocked(index){
-    return new Date() >= new Date(Date.UTC(2026,6,27+index,18,30));
+
+    const unlockDates = [
+        new Date("2026-07-27T00:00:00+05:30"),
+        new Date("2026-07-28T00:00:00+05:30"),
+        new Date("2026-07-29T00:00:00+05:30"),
+        new Date("2026-07-30T00:00:00+05:30"),
+        new Date("2026-07-31T00:00:00+05:30"),
+        new Date("2026-08-01T00:00:00+05:30"),
+        new Date("2026-08-02T00:00:00+05:30"),
+        new Date("2026-08-03T00:00:00+05:30"),
+        new Date("2026-08-04T00:00:00+05:30"),
+        new Date("2026-08-05T00:00:00+05:30"),
+        new Date("2026-08-06T00:00:00+05:30"),
+        new Date("2026-08-07T00:00:00+05:30")
+    ];
+
+    return new Date() >= unlockDates[index];
 }
 
 
